@@ -1,4 +1,4 @@
-# nykaa_compaign_analysis
+#Nkyaa_Campaign_analysis (Dashboard)
 Excited to share my latest Data Analytics project!
 Project: Nykaa Campaign Sales Analysis Dashboard
 I built an interactive Power BI dashboard to analyze marketing campaign performance and uncover actionable business insights.
